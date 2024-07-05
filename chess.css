@@ -1,0 +1,22 @@
+body{
+    margin: 100px 500px;
+}
+h1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+table,td,tr{
+    border: 3px solid black;
+    border-collapse:collapse ; 
+}
+table{
+    height: 500px;
+    width: 500px;
+    color: azure;
+}
+.black{
+    background-color: black;
+}
+
+
